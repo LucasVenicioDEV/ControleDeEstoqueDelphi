@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/12 14:52:26.000.838,=C:\Users\Previx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 14:53:08.000.585,C:\Users\Previx\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/05/12 14:53:08.000.585,C:\Users\Previx\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 14:53:23.000.310,C:\Users\Previx\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Project1.dproj</Transaction>
+    <Transaction>2023/05/12 16:03:59.000.283,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitPrincipal.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/05/12 16:03:59.000.283,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitPrincipal.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 16:05:55.000.747,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 16:07:11.000.677,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadProdutos.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/05/12 16:07:11.000.677,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadProdutos.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 16:07:47.000.439,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 16:09:18.000.090,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitMovimentacao.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/05/12 16:09:18.000.089,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitMovimentacao.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 16:10:22.000.957,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitMovimentacao.pas</Transaction>
+    <Transaction>2023/05/12 16:10:22.000.957,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitMovimentacao.dfm</Transaction>
+    <Transaction>2023/05/12 16:11:29.000.599,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 16:12:26.000.884,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitConMovimentacao.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 16:12:26.000.884,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitConMovimentacao.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/05/12 16:14:44.000.376,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 16:15:32.000.208,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitDM.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 16:15:32.000.208,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitDM.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/05/16 15:56:39.000.165,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitPrincipal.pas=</Transaction>
+    <Transaction>2023/05/16 15:56:47.000.061,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitPrincipal.pas</Transaction>
+    <Transaction>2023/05/16 15:57:28.000.164,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitPrincipal.pas</Transaction>
+    <Transaction>2023/05/16 15:59:57.000.510,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitPrincipal.pas=</Transaction>
+    <Transaction>2023/05/16 16:00:04.000.711,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitPrincipal.pas</Transaction>
+    <Transaction>2023/05/16 16:12:24.000.010,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitPrincipal.pas=</Transaction>
+    <Transaction>2023/05/16 16:12:30.000.596,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 16:17:40.000.109,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitPrincipal2.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/05/16 16:17:40.000.109,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitPrincipal2.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/22 15:37:02.000.509,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.pas=</Transaction>
+    <Transaction>2023/05/22 15:37:19.000.890,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.pas</Transaction>
+    <Transaction>2023/05/22 15:39:00.000.910,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.pas</Transaction>
+    <Transaction>2023/05/22 15:40:31.000.878,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.pas=</Transaction>
+    <Transaction>2023/05/22 15:41:26.000.260,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.pas</Transaction>
+    <Transaction>2023/05/22 15:42:02.000.034,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.pas=</Transaction>
+    <Transaction>2023/05/22 15:42:57.000.187,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/22 15:43:13.000.427,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/22 15:43:39.000.374,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/22 15:43:39.000.374,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/05/22 16:04:14.000.544,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.pas=</Transaction>
+    <Transaction>2023/05/22 16:11:40.000.844,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/22 16:46:25.000.278,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/05/22 16:46:25.000.278,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitCadMovimentacao.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/26 16:05:42.000.788,=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/26 16:06:59.000.195,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitmMovProdutos.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/05/26 16:06:59.000.195,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitmMovProdutos.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Unit1.pas</Transaction>
+    <Transaction>2023/05/26 16:07:32.000.317,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitMovProdutos.dfm=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitmMovProdutos.dfm</Transaction>
+    <Transaction>2023/05/26 16:07:32.000.317,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitMovProdutos.pas=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitmMovProdutos.pas</Transaction>
+    <Transaction>2023/07/17 14:04:50.000.506,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\UnitMovProdutos.pas=</Transaction>
+    <Transaction>2023/07/31 17:37:52.856,C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\ProjectEstoque.dproj=C:\Users\Previx\Desktop\Lucas DEV\Sistema de controle de estoque\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UnitCadProdutos.pas"/>
+    <File Path="UnitCadProdutos.dfm"/>
+    <File Path="UnitConMovimentacao.pas"/>
+    <File Path="UnitConMovimentacao.dfm"/>
+    <File Path="UnitDM.pas"/>
+    <File Path="UnitDM.dfm"/>
+    <File Path="UnitPrincipal2.pas"/>
+    <File Path="UnitPrincipal2.dfm"/>
+    <File Path="UnitCadMovimentacao.pas"/>
+    <File Path="UnitCadMovimentacao.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
